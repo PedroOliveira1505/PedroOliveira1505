@@ -93,7 +93,6 @@ Sou proativo, curioso e sempre em busca de aprender mais.
 - 🚀 **Soft Skills:** Proatividade, vontade de aprender, trabalho em equipe  
 
 ---
-
 ## 🌐 Conecte-se comigo
 
 - 💼 [LinkedIn](www.linkedin.com/in/pedro-oliveira-295189286)  
