@@ -17,7 +17,7 @@ Sou proativo, curioso e sempre em busca de aprender mais.
 - 🛠️ **Hardware:** Montagem e manutenção de computadores  
 - 🌍 **Idiomas:** Português (nativo), Inglês (intermediário)  
 - 🤖 **Inteligência Artificial:** Experiência com **Copilot** e **ChatGPT**  
-- ⚙️ **Ferramentas:** Git, VS Code, Windows  
+- ⚙️ **Ferramentas:** Git, GitHub, VS Code, Windows  
 - 🚀 **Soft Skills:** Proatividade, vontade de aprender, trabalho em equipe  
 
 ---
