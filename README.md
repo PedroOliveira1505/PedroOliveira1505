@@ -2,7 +2,7 @@
 
 🟦 Estudante de Análise e Desenvolvimento de Sistemas
 
-Olá! Meu nome é **Pedro Oliveira**, tenho **22 anos** e atualmente estou no **segundo semestre** do curso de **Análise e Desenvolvimento de Sistemas** na **Unisinos**, em Rio Grande do Sul 🇧🇷.
+Olá! Meu nome é **Pedro Oliveira**, tenho **22 anos** e atualmente estou no **primeiro semestre** do curso de **Análise e Desenvolvimento de Sistemas** na **Unisinos**, em Rio Grande do Sul 🇧🇷.
 
 Sou apaixonado por tecnologia e estou iniciando minha jornada na área de **TI**. Tenho conhecimentos básicos em **Java**, **Python** e **manutenção de computadores**.  
 Sou proativo, curioso e sempre em busca de aprender mais.
