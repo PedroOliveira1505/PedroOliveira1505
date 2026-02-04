@@ -97,7 +97,7 @@ Sou proativo, curioso e sempre em busca de aprender mais.
 
 - 💼 [LinkedIn](www.linkedin.com/in/pedro-oliveira-295189286)  
 - ✉ Email: pedrogabrielferreira082@gmail.com
-- 📸 Instagram: https://www.instagram.com/pedrogab_oliveira/#
+
 
 
 ---
