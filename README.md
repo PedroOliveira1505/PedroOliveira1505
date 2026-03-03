@@ -100,6 +100,3 @@ Sou proativo, curioso e sempre em busca de aprender mais.
 
 
 ---
-
-> ✨ “A tecnologia move o mundo, e eu quero fazer parte dessa transformação.”  
-> 🚀 Aberto a oportunidades e colaborações na área de TI.
