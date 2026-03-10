@@ -94,7 +94,7 @@ Sou proativo, curioso e sempre em busca de aprender mais.
 ---
 ## 🌐 Conecte-se comigo
 
-- 💼 [LinkedIn](www.linkedin.com/in/pedro-oliveira-295189286)  
+- 💼 [LinkedIn](www.linkedin.com/in/pedrogaboliveira)  
 - ✉ Email: pedrogabrielferreira082@gmail.com
 
 
